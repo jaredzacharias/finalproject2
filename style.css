@@ -34,7 +34,7 @@ img {
 
 body {
   font-family: Verdana;
-  background: linear-gradient(to right, lightgreen, teal);
+  background: linear-gradient(to right, gray, gray);
   margin:0;
 }
    
@@ -85,7 +85,7 @@ header h3 {
 
 nav {
   grid-area:nav;
-  background:rgba(0,0,0,.2);
+  background:yellow;
 }
     
 nav ul {
