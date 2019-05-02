@@ -174,7 +174,7 @@ footer p {
 }
 	
 article{
-background:rgba(0,0,0,.2);	
+background:#CBC016;	
 padding: 5px;
 }
 
@@ -236,7 +236,7 @@ background:#CBC016;
 
 .fig2{
 grid-area:fig2;
-background:rgba(0,0,0,.2);
+background:#CBC016;
 }
 /*---------------------------Mobile Layout Styles----------------------------*/
 .container1 { /*for index.html*/
