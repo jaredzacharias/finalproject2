@@ -40,7 +40,7 @@ body {
    
 aside {
   grid-area:aside;
-  background:#;
+  background:#CBC016;
   padding:10px 0;
 }
 
@@ -64,16 +64,16 @@ aside a{
  
 header {
   grid-area:header;
-  background:rgba(0,0,0,.2);
+  background:#CBC016;
   padding:5px;
   text-align:center;
  }
 
 header h1 {
   font-size:5vw;
-  color:mediumspringgreen;
+  color:navy;
   font-family:Impact;
-  text-shadow: 2px 2px 5px navy;
+  text-shadow: 2px 2px 5px gray;
   margin: 0;
 }
 
@@ -101,7 +101,7 @@ nav li {
 }
 
 form {
-    background-color:darkseagreen;
+    background-color:#CBC016;
     width:90%;
     margin:auto;
     color:white;
@@ -141,7 +141,7 @@ main p {
 
 footer {
   grid-area:footer;
-  background:rgba(0,0,0,.2);
+  background:CBC016;
   padding:5px;
   text-align:center;
 }
@@ -156,7 +156,7 @@ footer p {
     color:navy;
     text-align:center;
     font-size:2em;
-    background-color:darkseagreen;
+    background-color:#CBC016;
     width:60%;
     padding: 5px 0 0 0;
     margin:10px auto 0 auto;
@@ -164,7 +164,7 @@ footer p {
 }
 
 .phone{
-    color:darkseagreen;
+    color:#CBC016;
     background-color:navy;
     padding:5px;
     text-align:center;
