@@ -38,13 +38,11 @@ body {
   margin:0;
 }
 
-main2 {
-  background:#CBC016;
+.main2{
   grid-area: main2;
 }
 
-main1 {
-   background:CBC016;
+.main1{
    grid-area: main1;
 }
 
