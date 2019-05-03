@@ -406,7 +406,7 @@ background:#CBC016;
 	
 .container5 { /*for contact.html*/
   display: grid;
-  grid-template-columns:auto;
+  grid-template-columns:auto 1fr 1fr;
   grid-gap:.5em;
   margin:1%;
   grid-template-areas:
@@ -491,7 +491,7 @@ background:#CBC016;
 	}
 .container5 { /*for contact.html*/
   display: grid;
-  grid-template-columns:auto 1fr 1fr;
+  grid-template-columns:auto 1fr 1.5fr;
   grid-gap:.5em;
   margin:1%;
   grid-template-areas:
