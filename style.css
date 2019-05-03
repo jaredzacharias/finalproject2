@@ -153,10 +153,10 @@ footer p {
 }
 
 .call{
-    color:navy;
+    color:gray;
     text-align:center;
     font-size:2em;
-    background-color:#CBC016;
+    background-color:navy;
     width:60%;
     padding: 5px 0 0 0;
     margin:10px auto 0 auto;
@@ -164,7 +164,7 @@ footer p {
 }
 
 .phone{
-    color:#CBC016;
+    color:gray;
     background-color:navy;
     padding:5px;
     text-align:center;
