@@ -37,6 +37,17 @@ body {
   background: linear-gradient(to right, gray, gray);
   margin:0;
 }
+
+main2 {
+  background:#CBC016;
+  grid-area: main2;
+}
+
+main1 {
+   background:CBC016;
+   grid-area: main1;
+}
+
    
 aside {
   grid-area:aside;
