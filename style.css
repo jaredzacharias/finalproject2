@@ -303,6 +303,20 @@ background:#CBC016;
    "div1"
    "div2";
 }
+
+.container5 { /*for contact.html*/
+  display: grid;
+  grid-template-columns:100%;
+  grid-gap:.5em;
+  margin:1%;
+  grid-template-areas:
+    "header"
+    "nav"
+    "main1"
+    "main2"  
+    "footer";   
+    }
+
 /*This stuff is for the hamburger menu*/
 .toggleNav {
     display:grid; /*This is what allows the hamburger icon and "Menu" to display*/
@@ -389,6 +403,17 @@ background:#CBC016;
    "div1"
    "div2";
 }
+	
+.container5 { /*for contact.html*/
+  display: grid;
+  grid-template-columns:auto;
+  grid-gap:.5em;
+  margin:1%;
+  grid-template-areas:
+    "header header header"
+    "nav main1 main2"
+    "footer footer footer";   
+    }
 /* Below will change from hamburger menu to side navigation*/
   
 .toggleNav {
@@ -464,3 +489,13 @@ background:#CBC016;
    grid-template-areas:
    "div1 div2";
 	}
+.container5 { /*for contact.html*/
+  display: grid;
+  grid-template-columns:auto 1fr 1fr;
+  grid-gap:.5em;
+  margin:1%;
+  grid-template-areas:
+    "header header header"
+    "nav main1 main2"
+    "footer footer footer";   
+    }
