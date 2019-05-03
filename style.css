@@ -1,10 +1,10 @@
 .shadow {
-box-shadow: 10px 10px 5px #888888;
+box-shadow: 10px 10px 5px navy;
 }
 
 .button{
 padding:5px;
-color:lightseagreen;
+color:white;
 background:navy;
 cursor:pointer;
 }
